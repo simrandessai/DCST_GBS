@@ -1,0 +1,160 @@
+NIRF DATA - DEPARTMENT OF COMPUTER SCIENCE & TECHNOLOGY (DCST), GOA BUSINESS SCHOOL
+Period: 2023-24 to 2025-26    Focus year: 2025-26
+(* = assumed subject, not from the official syllabus. Names/figures are sample data.)
+
+A. PROGRAMMES OFFERED
+   MCA - Master of Computer Applications (2 years)
+   MSC_AI - M.Sc. Artificial Intelligence (2 years)
+   MSC_DS - M.Sc. Data Science (2 years)
+   BSC_MSC_DS - B.Sc.-M.Sc. Integrated Data Science (5 years)
+
+B. COURSES / SUBJECTS (Semester I and II)
+  Master of Computer Applications
+    Bridge course  (total credits: 2)
+      CSA-1000  Bridge Course for MCA                          2 cr  Bridge  
+    Semester I  (total credits: 24)
+      CSA-5000  Operating Systems                              3 cr  DSC     
+      CSA-5001  Object Oriented Software Engineering           4 cr  DSC     
+      CSA-5002  Internet Technology                            3 cr  DSC     
+      CSA-5003  Problem Solving and Programming Lab            2 cr  DSC     
+      CSA-5004  Linux Lab                                      2 cr  DSC     
+      CSA-5005  Object Oriented Technology Lab                 2 cr  DSC     
+      CSA-5201  Mathematics for Computer Science - I           2 cr  DSE     
+      CSA-5202  Fundamentals of Data Science                   2 cr  DSE     
+      CSA-5203  Operations Research                            4 cr  DSE     
+    Semester II  (total credits: 22)
+      CSA-5006  Data Structures and Algorithms                 2 cr  DSC     
+      CSA-5007  Database Management Systems                    3 cr  DSC     
+      CSA-5008  Web Development                                1 cr  DSC     
+      CSA-5009  Fundamentals of Artificial Intelligence        2 cr  DSC     
+      CSA-5010  Data Structures and Algorithms Lab             2 cr  DSC     
+      CSA-5011  Database Management Systems Lab                2 cr  DSC     
+      CSA-5012  Web Development Lab                            2 cr  DSC     
+      CSA-5013  Fundamentals of Artificial Intelligence Lab    2 cr  DSC     
+      CSA-5204  Mathematics for Computer Science - II          2 cr  DSE     
+      CSA-5205  Secure Coding                                  2 cr  DSE     
+      CSA-5206  Data Mining                                    2 cr  DSE     
+  M.Sc. Artificial Intelligence
+    Semester I  (total credits: 20)
+      AI-5101   Python Programming for AI                      3 cr  Core     *
+      AI-5102   Mathematics for AI                             4 cr  Core     *
+      AI-5103   Machine Learning                               4 cr  Core     *
+      AI-5104   Data Structures and Algorithms                 3 cr  Core     *
+      AI-5105   Python and ML Lab                              2 cr  Core     *
+      AI-5106   Probability and Statistics                     2 cr  Elective *
+      AI-5107   Research Methodology                           2 cr  Elective *
+    Semester II  (total credits: 19)
+      AI-5201   Deep Learning                                  4 cr  Core     *
+      AI-5202   Natural Language Processing                    3 cr  Core     *
+      AI-5203   Computer Vision                                3 cr  Core     *
+      AI-5204   Knowledge Representation and Reasoning         3 cr  Core     *
+      AI-5205   Deep Learning Lab                              2 cr  Core     *
+      AI-5206   Ethical Use of AI                              2 cr  Elective *
+      AI-5207   Reinforcement Learning                         2 cr  Elective *
+  M.Sc. Data Science
+    Semester I  (total credits: 20)
+      DS-5101   Statistics for Data Science                    4 cr  Core     *
+      DS-5102   Programming for Data Science (Python/R)        3 cr  Core     *
+      DS-5103   Linear Algebra and Optimization                3 cr  Core     *
+      DS-5104   Database Management Systems                    3 cr  Core     *
+      DS-5105   Data Wrangling Lab                             2 cr  Core     *
+      DS-5106   Programming Lab                                2 cr  Core     *
+      DS-5107   Fundamentals of Data Science                   3 cr  Elective *
+    Semester II  (total credits: 18)
+      DS-5201   Machine Learning                               4 cr  Core     *
+      DS-5202   Big Data Technologies                          3 cr  Core     *
+      DS-5203   Data Visualization                             2 cr  Core     *
+      DS-5204   Statistical Inference and Time Series          3 cr  Core     *
+      DS-5205   Machine Learning Lab                           2 cr  Core     *
+      DS-5206   Big Data Lab                                   2 cr  Core     *
+      DS-5207   Data Mining                                    2 cr  Elective *
+  B.Sc.-M.Sc. Integrated Data Science
+    Semester I  (total credits: 20)
+      BDS-1101  Introduction to Programming (Python)           4 cr  Core     *
+      BDS-1102  Calculus I                                     4 cr  Core     *
+      BDS-1103  Discrete Mathematics                           3 cr  Core     *
+      BDS-1104  Introduction to Data Science                   3 cr  Core     *
+      BDS-1105  Statistics I                                   4 cr  Core     *
+      BDS-1106  Programming Lab                                2 cr  Core     *
+    Semester II  (total credits: 19)
+      BDS-1201  Data Structures and Algorithms                 4 cr  Core     *
+      BDS-1202  Linear Algebra                                 4 cr  Core     *
+      BDS-1203  Probability Theory                             4 cr  Core     *
+      BDS-1204  Database Management Systems                    3 cr  Core     *
+      BDS-1205  Data Structures Lab                            2 cr  Core     *
+      BDS-1206  Communication Skills                           2 cr  Elective *
+
+C. TEACHING STAFF
+   [Teaching Staff @4] Dr. Rohit Gaonkar | PROFESSOR | [Operating Systems, Linux Lab]
+   [Teaching Staff @5] Dr. Sneha Pal | ASSOCIATE_PROFESSOR | [Database Management Systems, DBMS Lab]
+   [Teaching Staff @6] Prof. Bikram Chauhan | ASSISTANT_PROFESSOR | [Web Development, Internet Technology]
+   [Teaching Staff @7] Dr. Jesly D'Souza | ASSISTANT_PROFESSOR | [Fundamentals of AI, Machine Learning]
+   [Teaching Staff @8] Prof. Crieton Vaz | ASSISTANT_PROFESSOR | [Fundamentals of Data Science, Data Mining]
+
+D. NON-TEACHING STAFF
+   [Non-Teaching Staff @9] Mr. Sra Parab | Lab Technician
+   [Non-Teaching Staff @10] Ms. Lata Das | Office Assistant
+   [Non-Teaching Staff @11] Mr. Sagar Kelkar | System Administrator
+
+E. ACADEMIC ACTIVITIES
+  2023-24
+     - ISA (Internal Semester Assessment): Continuous internal assessment of each course
+     - Midpoint Assessment: Mid-semester test for every course
+     - SEA (Semester End Assessment): End-semester university examination
+     - Study Tour: Industry / institute visit for students
+     - Campus Placements: Recruitment drives conducted for final-year students
+     - Industry Internship: Internship with partner organisations
+     - Guest Lectures and Workshops: Sessions by industry and academic experts
+     - Dissertation / Project Viva: Evaluation of final-semester dissertations
+     - Hackathon / Coding Contest: Technical competition for students
+  2024-25
+     - ISA (Internal Semester Assessment): Continuous internal assessment of each course
+     - Midpoint Assessment: Mid-semester test for every course
+     - SEA (Semester End Assessment): End-semester university examination
+     - Study Tour: Industry / institute visit for students
+     - Campus Placements: Recruitment drives conducted for final-year students
+     - Industry Internship: Internship with partner organisations
+     - Guest Lectures and Workshops: Sessions by industry and academic experts
+     - Dissertation / Project Viva: Evaluation of final-semester dissertations
+     - Hackathon / Coding Contest: Technical competition for students
+  2025-26  <== focus year
+     - ISA (Internal Semester Assessment): Continuous internal assessment of each course
+     - Midpoint Assessment: Mid-semester test for every course
+     - SEA (Semester End Assessment): End-semester university examination
+     - Study Tour: Industry / institute visit for students
+     - Campus Placements: Recruitment drives conducted for final-year students
+     - Industry Internship: Internship with partner organisations
+     - Guest Lectures and Workshops: Sessions by industry and academic experts
+     - Dissertation / Project Viva: Evaluation of final-semester dissertations
+     - Hackathon / Coding Contest: Technical competition for students
+
+F. NON-ACADEMIC ACTIVITIES
+  2023-24
+     - InfoFest: Annual technical and cultural fest of the department
+     - Plateaunia: Annual fest event
+     - Play-on: Sports event for students
+     - Freshers' Welcome: Orientation and welcome for the new batch
+     - Farewell: Send-off for outgoing students
+     - Alumni Meet: Interaction between alumni and students
+     - Blood Donation / Social Outreach Camp: Community service activity
+  2024-25
+     - InfoFest: Annual technical and cultural fest of the department
+     - Plateaunia: Annual fest event
+     - Play-on: Sports event for students
+     - Freshers' Welcome: Orientation and welcome for the new batch
+     - Farewell: Send-off for outgoing students
+     - Alumni Meet: Interaction between alumni and students
+     - Blood Donation / Social Outreach Camp: Community service activity
+  2025-26  <== focus year
+     - InfoFest: Annual technical and cultural fest of the department
+     - Plateaunia: Annual fest event
+     - Play-on: Sports event for students
+     - Freshers' Welcome: Orientation and welcome for the new batch
+     - Farewell: Send-off for outgoing students
+     - Alumni Meet: Interaction between alumni and students
+     - Blood Donation / Social Outreach Camp: Community service activity
+
+G. PLACEMENTS (students placed, SAMPLE figures)
+   2023-24 : 28 students
+   2024-25 : 31 students
+   2025-26 : 35 students   <== focus year
